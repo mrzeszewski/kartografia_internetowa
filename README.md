@@ -25,9 +25,9 @@ Mapbox został wybrany dlatego, że jest w miarę zamknięty rozwiązanie i do s
 1. [Leaflet](https://leafletjs.com/) - jedna najpoularnieszyj bibliotek mapowych. Łatwa w implementacji, wiele rozszerzeń i integracji z oprogramowaniem GIS i nie tylko np.:
    - QGIS + [qgis2web plugin](https://plugins.qgis.org/plugins/qgis2web/) - przyjazna dla użytkownika wtyczka, pozwalająca na eksport projektu QGIS zarówno w postaci mapy wykonanej w Leaflet jak i w OpenLayers (patrz niżej)
    - R + [biblioteka Leaflet](https://rstudio.github.io/leaflet/) bardzo ciekawa opcja dla osób pracujących w środowisku programistycznym R
-2. ArcGIS Online
-3. OpenLayers
-4. [MapLibre](https://maplibre.org/)
+2. [ArcGIS Online](https://www.arcgis.com/index.html) - właśnościowa platforma umożliwiająca publikowanie map na wielu różnych sposobów (np. Story Maps), również za darmo w ograniczonym zakresie. Zaawansowane możliwości w połączniu z oprogramowanie ArcGIS/
+3. [OpenLayers](https://openlayers.org/) - bardzo rozbudowana i bardzo dobrze opisana platforma mapowa, alternatywa dla Leaflet (choć wymaga nieco wiekszych umiejętności programistycznych)
+4. [MapLibre](https://maplibre.org/) - Open Source wersja bibliotek programistycznych Mapbox GL JS. Jeśli nie są potrzebne usługi Mapbox takie jak Studio a celem jest stworzenie czytelnej i funkcjonalne mapy na strone to przy posiadaniu znajomości Javascript warto sie zainteresować bezpłatną alternatywą.
 
 
 ## Do poczytania
