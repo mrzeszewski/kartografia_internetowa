@@ -17,7 +17,11 @@ Poniższa lista przedstawia skróconą wersję tego co obejmuje każdy blok zaj�
 ## Dane przykładowe
 
 ## Publikacja mapy w internecie - serwisy hostingowe
-Na pewno w jakimś momencie trzeba stworzona mapę udostępnić
+Na pewno w jakimś momencie trzeba stworzona mapę udostępnić publicznie. Do tego potrzebne jest miejsce na serwerze (hosting). Istnieje wiele platform, które umożliwiają darmowy hosting, jednak trzeba być ostrożnym (np. niechciane reklamy) i nie wszystkie są przyjazne dla użytkownika. Osobiście na początek polecam dwa sposoby publikacji:
+
+1. [GitHub Pages](https://pages.github.com/) - bardzo prosty i elastyczny sposób publikacji strony w repozytorium GitHub (takiego jak to)
+2. [Gitch](https://glitch.com/) - darmowe konto umożliwiające nie tylko publikacje statycznej strony ale i testowanie budowy aplikacji sieciowych 
+
 
 ## Alternatywne oprogramowanie
 Mapbox został wybrany dlatego, że jest w miarę zamknięty rozwiązanie i do stworzenia czytelnej mapy o podstawowej funkcjonalności nie wymaga znajomości żadnego języka programowanie. Ale jeśli chcesz czegoś więcej to wystarczą podstawy Javascript, HTML i CSS a świat map internetowych stoi otworem. Podstawy tych trzech rzeczy potrzebne są również w przypadku wykorzystania Mapboxa w bardzije zaawansowany sposób. Alternatywne dla Mapboxa sposoby tworzenia map internetowych (w przypadkowej kolejności):
