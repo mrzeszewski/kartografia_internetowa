@@ -22,12 +22,12 @@ Na pewno w jakimś momencie trzeba stworzona mapę udostępnić
 ## Alternatywne oprogramowanie
 Mapbox został wybrany dlatego, że jest w miarę zamknięty rozwiązanie i do stworzenia czytelnej mapy o podstawowej funkcjonalności nie wymaga znajomości żadnego języka programowanie. Ale jeśli chcesz czegoś więcej to wystarczą podstawy Javascript, HTML i CSS a świat map internetowych stoi otworem. Podstawy tych trzech rzeczy potrzebne są również w przypadku wykorzystania Mapboxa w bardzije zaawansowany sposób. Alternatywne dla Mapboxa sposoby tworzenia map internetowych (w przypadkowej kolejności):
 
-1. Leaflet 
-   - QGIS + Leaflet plugin
-   - R + bibliotea Leaflet 
+1. [Leaflet](https://leafletjs.com/) - jedna najpoularnieszyj bibliotek mapowych. Łatwa w implementacji, wiele rozszerzeń i integracji z oprogramowaniem GIS i nie tylko np.:
+   - QGIS + [qgis2web plugin](https://plugins.qgis.org/plugins/qgis2web/) - przyjazna dla użytkownika wtyczka, pozwalająca na eksport projektu QGIS zarówno w postaci mapy wykonanej w Leaflet jak i w OpenLayers (patrz niżej)
+   - R + [biblioteka Leaflet](https://rstudio.github.io/leaflet/) bardzo ciekawa opcja dla osób pracujących w środowisku programistycznym R
 2. ArcGIS Online
 3. OpenLayers
-4. MapLibre
+4. [MapLibre](https://maplibre.org/)
 
 
 ## Do poczytania
