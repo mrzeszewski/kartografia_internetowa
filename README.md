@@ -14,6 +14,7 @@ Poniższa lista przedstawia skróconą wersję tego co obejmuje każdy blok zaj�
    - [Mapbox Studio](https://studio.mapbox.com/)
 2. 
 
+## Dane przykładowe
 
 ## Alternatywne oprogramowanie
 Mapbox został wybrany dlatego, że jest w miarę zamknięty rozwiązanie i do stworzenia czytelnej mapy o podstawowej funkcjonalności nie wymaga znajomości żadnego języka programowanie. Ale jeśli chcesz czegoś więcej to wystarczą podstawy Javascript, HTML i CSS a świat map internetowych stoi otworem. Podstawy tych trzech rzeczy potrzebne są również w przypadku wykorzystania Mapboxa w 
