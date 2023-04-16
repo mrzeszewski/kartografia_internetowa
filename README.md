@@ -2,7 +2,7 @@
 Materiały do zajęć z przedmiotu Kartografia Internetowa (KI). 
 
 ## Dlaczego KI?
-W trakcie kursu będziemy zapoznawać się z technikami publikacji informacji przestrzennej w postaci dynamicznych map internetowych.
+W trakcie kursu będziemy zapoznawać się z technikami publikacji informacji przestrzennej w postaci dynamicznych map internetowych. Istnieje bardzo wiele powodów, dla których ta forma publikacji jest właściwie dominująca - wygoda, możliwość udostępniania szerokiemu gronu odbiorców, dynamiczna treść, możliwość integracji z platformami i usługami internetowymi (chociażby geolokalizacja użytkownika) czy wreszcie dostępność szerokiego spoektrum narzędzi kartograficznych. Popularność kartografii internetowej spowodowała powstanie licznych rozwiązan technicznych - celem tego kursy jest przedstawienie jednego z nich. Namacalnym efektem będzie stworzenie mapy internetowej i publikacja jej w sieci.   
 
 
 ## Tematyka zajęć
