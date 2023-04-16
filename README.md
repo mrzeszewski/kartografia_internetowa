@@ -17,9 +17,10 @@ Poniższa lista przedstawia skróconą wersję tego co obejmuje każdy blok zaj�
 2. **Zaawansowane edycja stylu mapy i dodawanie własnych danych**
    - zaawansowana edycja stylu przy pomocy warstw
    - dodawanie własnych danych i tworzenie zestawu kafelków
+   - metody wizualizacji danych w Mapbox
    - import danych: formaty i wymogi
    - tworzenie i edycja danych przy pomocy [Edytora Mapbox](https://studio.mapbox.com/datasets/)
-   - **Zadanie 2** - ** 
+   - **Zadanie 2** - *Stwórz mapę pokazującą rozkład wskaźnika feminizacji na przykładzie Poznania. Wykorzystaj wizualizację 3D. Użyj [zestawu danych demograficznych dla Poznania]()* 
 
 ## Dane przykładowe
 
