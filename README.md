@@ -11,7 +11,7 @@ Poniższa lista przedstawia skróconą wersję tego co obejmuje każdy blok zaj�
 1. [Platforma Mapbox](https://www.mapbox.com/) - wprowadzenie
    - rejestracja konta (wymagany mail z domeny uniwersyteckiej)
    - interfejs użytkownika, [tutoriale](https://docs.mapbox.com/help/tutorials/), [przykłady](https://docs.mapbox.com/mapbox-gl-js/example/), [dokumentacja](https://docs.mapbox.com/), 
-   - [Mapbox Studio]
+   - [Mapbox Studio](https://studio.mapbox.com/)
 2. 
 
 
