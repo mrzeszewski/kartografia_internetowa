@@ -1,2 +1,2 @@
-# kartografia_internetowa
+# Kartografia internetowa
 Materiały do zajęć z przedmiotu Kartografia Internetowa
