@@ -16,6 +16,9 @@ Poniższa lista przedstawia skróconą wersję tego co obejmuje każdy blok zaj�
 
 ## Dane przykładowe
 
+## Publikacja mapy w internecie - serwisy hostingowe
+Na pewno w jakimś momencie trzeba stworzona mapę udostępnić
+
 ## Alternatywne oprogramowanie
 Mapbox został wybrany dlatego, że jest w miarę zamknięty rozwiązanie i do stworzenia czytelnej mapy o podstawowej funkcjonalności nie wymaga znajomości żadnego języka programowanie. Ale jeśli chcesz czegoś więcej to wystarczą podstawy Javascript, HTML i CSS a świat map internetowych stoi otworem. Podstawy tych trzech rzeczy potrzebne są również w przypadku wykorzystania Mapboxa w bardzije zaawansowany sposób. Alternatywne dla Mapboxa sposoby tworzenia map internetowych (w przypadkowej kolejności):
 
