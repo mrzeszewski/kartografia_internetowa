@@ -8,11 +8,17 @@ W trakcie kursu będziemy zapoznawać się z technikami publikacji informacji pr
 ## Tematyka zajęć
 Poniższa lista przedstawia skróconą wersję tego co obejmuje każdy blok zajęć, wraz z niezbędnymi materiałami i linkami do dodatkowych treści. 
 
-1. **[Platforma Mapbox](https://www.mapbox.com/) - wprowadzenie**
+1. **Wprowadzenie do [Platformy Mapbox](https://www.mapbox.com/) i tworzenie stylu mapy**
    - rejestracja konta (wymagany mail z domeny uniwersyteckiej)
+   - struktura danych przestrzennych w Mapbox: zestawy danych, kafelki, style.
    - interfejs użytkownika, [tutoriale](https://docs.mapbox.com/help/tutorials/), [przykłady](https://docs.mapbox.com/mapbox-gl-js/example/), [dokumentacja](https://docs.mapbox.com/), 
-   - [Mapbox Studio](https://studio.mapbox.com/)
-2. 
+   - [Mapbox Studio](https://studio.mapbox.com/) - dostępne zasoby, stylizacja mapy przy pomocy komponentów
+   - **Zadanie 1** - *stwórz własny spójny wizualnie styl, zmieniając właściwości komponentów. Udostepnij w formie podglądu (preview)* 
+2. **Zaawansowane edycja stylu mapy i dodawanie własnych danych**
+   - zaawansowana edycja stylu przy pomocy warstw
+   - dodawanie własnych danych i tworzenie zestawu kafelków
+   - import danych: formaty i wymogi
+   - 
 
 ## Dane przykładowe
 
