@@ -18,9 +18,12 @@ Poniższa lista przedstawia skróconą wersję tego co obejmuje każdy blok zaj�
    - zaawansowana edycja stylu przy pomocy warstw
    - dodawanie własnych danych i tworzenie zestawu kafelków
    - import danych: formaty i wymogi
-   - 
+   - tworzenie i edycja danych przy pomocy [Edytora Mapbox](https://studio.mapbox.com/datasets/)
+   - **Zadanie 2** - ** 
 
 ## Dane przykładowe
+
+?MPZP?
 
 ## Publikacja mapy w internecie - serwisy hostingowe
 Na pewno w jakimś momencie trzeba stworzona mapę udostępnić publicznie. Do tego potrzebne jest miejsce na serwerze (hosting). Istnieje wiele platform, które umożliwiają darmowy hosting, jednak trzeba być ostrożnym (np. niechciane reklamy) i nie wszystkie są przyjazne dla użytkownika. Osobiście na początek polecam dwa sposoby publikacji:
