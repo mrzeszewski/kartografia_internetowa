@@ -13,17 +13,33 @@ Poniższa lista przedstawia skróconą wersję tego co obejmuje każdy blok zaj�
    - interfejs użytkownika, [tutoriale](https://docs.mapbox.com/help/tutorials/), [przykłady](https://docs.mapbox.com/mapbox-gl-js/example/), [dokumentacja](https://docs.mapbox.com/), 
    - [Mapbox Studio](https://studio.mapbox.com/) - dostępne zasoby, stylizacja mapy przy pomocy komponentów
    - **Zadanie 1** - *stwórz własny spójny wizualnie styl, zmieniając właściwości komponentów. Udostepnij w formie podglądu (preview)* 
-2. **Zaawansowane edycja stylu mapy i dodawanie własnych danych**
+2. **Edycja stylu mapy przy pocy warstw i dodawanie własnych danych**
    - zaawansowana edycja stylu przy pomocy warstw
    - dodawanie własnych danych i tworzenie zestawu kafelków
    - metody wizualizacji danych w Mapbox
    - import danych: formaty i wymogi
    - tworzenie i edycja danych przy pomocy [Edytora Mapbox](https://studio.mapbox.com/datasets/)
-   - **Zadanie 2** - *Stwórz mapę pokazującą rozkład wskaźnika feminizacji na przykładzie Poznania. Wykorzystaj wizualizację 3D. Użyj [zestawu danych demograficznych dla Poznania]()* 
+   - publikacja podglądu mapy
+   - **Zadanie 2** - *Stwórz mapę pokazującą rozkład wskaźnika feminizacji na przykładzie Poznania. Wykorzystaj wizualizację 3D. Użyj [zestawu danych demograficznych dla Poznania]()*
+3. **Zaawansowana stylizacja warstw**
+   - stylizacja warstw liniowych i punktowych
+   - stylizacja zależna od danych
+   - mapy ciepła
+   - grupy warstw
+   - ikony i czcionki
+4. **Publikacja mapy przy pomocy strony internetowej - Mapbox GL JS**
+   - tworzenie własnej strony z mapą internetową na podstawie [przykładu prostej mapy Mapbox](https://docs.mapbox.com/mapbox-gl-js/example/simple-map/)
+   - struktura strony internetowej (CSS, HTML)
+   - podstawy skryptów Javascript
+   - narzędzia developerskie przeglądarki
+   - wprowadzenie do biblioteki Mapbox GL JS
+5. **Dodawanie funkcji interaktwnych do mapy**
+   - dodawanie funkcji interaktywnych do mapy - [przykład z popupami](https://docs.mapbox.com/mapbox-gl-js/example/popup-on-click/)
+   - przełączanie warstw mapy przy pomocny funkcji Javascript - [przykład](https://docs.mapbox.com/mapbox-gl-js/example/toggle-layers/)
 
 ## Dane przykładowe
 
-?MPZP?
+do uzupełnienia
 
 ## Publikacja mapy w internecie - serwisy hostingowe
 Na pewno w jakimś momencie trzeba stworzona mapę udostępnić publicznie. Do tego potrzebne jest miejsce na serwerze (hosting). Istnieje wiele platform, które umożliwiają darmowy hosting, jednak trzeba być ostrożnym (np. niechciane reklamy) i nie wszystkie są przyjazne dla użytkownika. Osobiście na początek polecam dwa sposoby publikacji:
@@ -44,3 +60,5 @@ Mapbox został wybrany dlatego, że jest w miarę zamknięty rozwiązanie i do s
 
 
 ## Do poczytania
+
+
