@@ -27,15 +27,19 @@ Poniższa lista przedstawia skróconą wersję tego co obejmuje każdy blok zaj�
    - mapy ciepła
    - grupy warstw
    - ikony i czcionki
+   - style zależne od skali
 4. **Publikacja mapy przy pomocy strony internetowej - Mapbox GL JS**
    - tworzenie własnej strony z mapą internetową na podstawie [przykładu prostej mapy Mapbox](https://docs.mapbox.com/mapbox-gl-js/example/simple-map/)
    - struktura strony internetowej (CSS, HTML)
    - podstawy skryptów Javascript
    - narzędzia developerskie przeglądarki
    - wprowadzenie do biblioteki Mapbox GL JS
-5. **Dodawanie funkcji interaktwnych do mapy**
+   - **Zadanie 3** - *Opublikuj własny styl w postaci strony internetowej - pliku html*
+5. **Dodawanie funkcji interaktywnych do mapy**
    - dodawanie funkcji interaktywnych do mapy - [przykład z popupami](https://docs.mapbox.com/mapbox-gl-js/example/popup-on-click/)
    - przełączanie warstw mapy przy pomocny funkcji Javascript - [przykład](https://docs.mapbox.com/mapbox-gl-js/example/toggle-layers/)
+6. **Zadanie zaliczeniowe**
+   - **Zadanie 4 - końcowy projekt** - *Zadanie w grupach 1-2 osoby. Stwórz i opublikuj własną stronę internetową zawierającą mapę na wybrany temat. Wykorzystaj dowoolne dane poza używanymi na zajęciach. Oceniane będzie część kartograficzna (czytelność, dobór kolorów i symboli, hierarchia wizulalna etc.) oraz część funkcjonalna (stopień interaktywności, dodane funkcje). *
 
 ## Dane przykładowe
 
