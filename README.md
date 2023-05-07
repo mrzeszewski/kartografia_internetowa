@@ -20,7 +20,7 @@ Poniższa lista przedstawia skróconą wersję tego co obejmuje każdy blok zaj�
    - import danych: formaty i wymogi
    - tworzenie i edycja danych przy pomocy [Edytora Mapbox](https://studio.mapbox.com/datasets/)
    - publikacja podglądu mapy
-   - **Zadanie 2** - *Stwórz mapę pokazującą rozkład wskaźnika feminizacji na przykładzie Poznania. Wykorzystaj wizualizację 3D. Użyj [zestawu danych demograficznych dla Poznania]()*
+   - **Zadanie 2** - *Stwórz mapę pokazującą rozkład wskaźnika feminizacji na przykładzie Poznania. Wykorzystaj wizualizację 3D. Użyj [zestawu danych demograficznych dla Poznania](https://raw.githubusercontent.com/mrzeszewski/kartografia_internetowa/main/dane/demography_poznan.geojson)*
 3. **Zaawansowana stylizacja warstw**
    - stylizacja warstw liniowych i punktowych
    - stylizacja zależna od danych
