@@ -43,7 +43,7 @@ Poniższa lista przedstawia skróconą wersję tego co obejmuje każdy blok zaj�
 
 ## Dane przykładowe
 
-1. [Województwa (plik poland_voivodships.geojson)](dane/poland_voivodships.geojson)
+1. [Województwa (plik poland_voivodships.geojson)](https://raw.githubusercontent.com/mrzeszewski/kartografia_internetowa/main/dane/poland_voivodships.geojson)
 _Granice województw i przykładowe dane atrybutowe._
 2. [Dane demograficzne dla Poznania (plik demography_poznan.geojson)](data/demography_poznan.geojson)
 _Data from demographic census 2011 for Poznan area: Number of people, age, gender in 1x1 km grid._
