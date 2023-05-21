@@ -72,4 +72,8 @@ Mapbox został wybrany dlatego, że jest w miarę zamknięty rozwiązanie i do s
 
 ## Do poczytania
 
+1. [Kurs HTML W3Schools](https://www.w3schools.com/html/)
+2. [Kurs CSS W3Schools](https://www.w3schools.com/css/)
+3. [Kurs Javascript W3Schools](https://www.w3schools.com/js/)
+
 
