@@ -49,7 +49,11 @@ _Granice województw i przykładowe dane atrybutowe._
 _Dane ze spisu powszechnego 2011: Siatka z liczbą ludności, wiekiem i płcią._
 3. [Pomniki przyrody w Poznaniu (plik natural_monuments.csv](https://raw.githubusercontent.com/mrzeszewski/kartografia_internetowa/main/dane/natural_monuments.csv)
 _Pomniki przyrody w okolicach Poznania z  GDOŚ - format CSV_
-3. [Ikona oznaczenia pomnika przyrody (plik natural_monument.svg](https://raw.githubusercontent.com/mrzeszewski/kartografia_internetowa/main/dane/natural_monument.svg)
+4. [Ikona oznaczenia pomnika przyrody (plik natural_monument.svg](https://raw.githubusercontent.com/mrzeszewski/kartografia_internetowa/main/dane/natural_monument.svg)
+_Ikona w formacie SVG_
+5. [Ikona oznaczenia pomnika przyrody (plik natural_monument.svg](https://raw.githubusercontent.com/mrzeszewski/kartografia_internetowa/main/dane/natural_monument.svg)
+_Ikona w formacie SVG_
+6. [Ikona oznaczenia pomnika przyrody (plik natural_monument.svg](https://raw.githubusercontent.com/mrzeszewski/kartografia_internetowa/main/dane/natural_monument.svg)
 _Ikona w formacie SVG_
 
 ## Publikacja mapy w internecie - serwisy hostingowe
