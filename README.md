@@ -51,7 +51,7 @@ _Dane ze spisu powszechnego 2011: Siatka z liczbą ludności, wiekiem i płcią.
 _Pomniki przyrody w okolicach Poznania z  GDOŚ - format CSV_
 4. [Ikona oznaczenia pomnika przyrody (plik natural_monument.svg](https://raw.githubusercontent.com/mrzeszewski/kartografia_internetowa/main/dane/natural_monument.svg)
 _Ikona w formacie SVG_
-5. [Ikona oznaczenia pomnika przyrody (plik natural_monument.svg](https://raw.githubusercontent.com/mrzeszewski/kartografia_internetowa/main/dane/natural_monument.svg)
+5. [Dane z liczników rowerowych dla Poznania (plik liczniki_rowerowe_Poznan_21032024.geojson](https://raw.githubusercontent.com/mrzeszewski/kartografia_internetowa/main/dane/liczniki_rowerowe_Poznan_21032024.geojson)
 _Ikona w formacie SVG_
 6. [Ikona oznaczenia pomnika przyrody (plik natural_monument.svg](https://raw.githubusercontent.com/mrzeszewski/kartografia_internetowa/main/dane/natural_monument.svg)
 _Ikona w formacie SVG_
