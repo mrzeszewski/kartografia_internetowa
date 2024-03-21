@@ -53,7 +53,7 @@ _Pomniki przyrody w okolicach Poznania z  GDOŚ - format CSV_
 _Ikona w formacie SVG_
 5. [Dane z liczników rowerowych dla Poznania (plik liczniki_rowerowe_Poznan_21032024.geojson](https://raw.githubusercontent.com/mrzeszewski/kartografia_internetowa/main/dane/liczniki_rowerowe_Poznan_21032024.geojson)
 _Ikona w formacie SVG_
-6. [Ikona oznaczenia pomnika przyrody (plik natural_monument.svg](https://raw.githubusercontent.com/mrzeszewski/kartografia_internetowa/main/dane/natural_monument.svg)
+6. [Wartość emisji hałasu samochodoowego w Poznaniu - wskaźnik LN (plik halas_samochodowy_LN.geojson)](https://raw.githubusercontent.com/mrzeszewski/kartografia_internetowa/main/dane/halas_samochodowy_LN.geojson)
 _Ikona w formacie SVG_
 
 ## Publikacja mapy w internecie - serwisy hostingowe
